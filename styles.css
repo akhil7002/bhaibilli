@@ -1,0 +1,29 @@
+body{
+    font-family:"Montserrat";
+   
+  }
+  .title {
+    background-color: #0a0707;
+    color: #fff;
+    
+  }
+  .carousel-indicators{
+    align-items: center;
+  }
+  .multi-item-example{
+    align-items: center;
+  }
+.bhaieyes{
+  height: 400px;
+  width: 1550px;
+}
+#cta{
+  text-align: center;
+  background-color: #0a0707;
+    color: #fff;
+}
+#footer{
+  text-align: center;
+  background-color: #0a0707;
+    color: #fff;
+}
